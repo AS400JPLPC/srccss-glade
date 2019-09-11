@@ -17,3 +17,5 @@ transforme file.css for glade to c/c++ srccs_css.hpp for gtk3..
     out > myFile.css to myFile_css.hpp
 
     voir exemple srcdsp.glade to srcdsp_css.hpp
+    
+    ./srcsrc -p /$home/GTK/srcsql/src/  -f  srcsql 

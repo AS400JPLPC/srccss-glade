@@ -20,7 +20,7 @@ INCLUDES = \
 
 OBJ = $(OBJDIR)$(EXEC).o  
 EXECUTABLE = $(BINDIR)$(EXEC)
-INSTALLDIR=/home/soleil/T_LIB/
+INSTALLDIR=$(HOME)/T_LIB/
 
  
 # choix du compilateur :
